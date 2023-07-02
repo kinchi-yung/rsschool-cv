@@ -11,18 +11,20 @@
 
    5. Code example:
 
-```for (int i = 0; i < mass1.length; i++) {
+```
+for (int i = 0; i < mass1.length; i++) {
             for (int j = i + 1; j < mass1.length; j++){
                 if (mass1[i] > mass1[j]) {
                     temporary = mass1[i];
                     mass1[i] = mass1[j]; mass1[j] = temporary;
                 }
             }
-        }   
+        }  
+
 ```
 
-   6. Projects: none
+    6. Projects: none
 
-   7. Education: in process...
+    7 . Education: in process...
 
-   8. English level: A2+
+    8. English level: A2+
