@@ -22,3 +22,7 @@
 ```
 
    6. Projects: none
+
+   7. Education: in process...
+
+   8. English level: A2+
